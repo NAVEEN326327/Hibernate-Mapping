@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/bookpack/Book.java=UTF-8
+encoding//src/emppack/Emp.java=UTF-8
+encoding//src/onetomanypack/Depart.java=UTF-8
+encoding//src/onetomanypack/Empl.java=UTF-8
+encoding//src/onetomanypack/ManytoOneDemo.java=UTF-8
+encoding//src/onetoone/OnetoOneDemo.java=UTF-8
+encoding//src/sequencepack/Author.java=UTF-8
+encoding//src/sequencepack/AuthorDemo.java=UTF-8
